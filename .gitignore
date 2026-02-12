@@ -1,0 +1,13 @@
+*.pt
+*.jpg
+
+/runs
+/datasets
+/weights
+/logs
+/results
+/models
+/checkpoints
+/backups
+/backups
+/wildlife_test
